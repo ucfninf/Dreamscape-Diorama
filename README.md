@@ -55,7 +55,7 @@ To replicate this project, follow the steps below to set up both the hardware an
 - **MQTT Libraries**: Install MQTT libraries for Unity and Arduino.
 - **Download or build Models**:  Depending on the screen size you decide to use.
 
-![Screenshot 2024-08-06 134959](https://github.com/user-attachments/assets/3a94df84-c2ee-48f1-b1da-d3bf0a631473)
+
 Grindelwald's hill Representation: ![Screenshot 2024-08-06 134959](https://github.com/user-attachments/assets/c93e5df2-043b-44c5-9df5-85a8f74cdf2a)
 
 ## Step-by-Step Instructions
