@@ -66,6 +66,8 @@ To replicate this project, follow the steps below to set up both the hardware an
 
 - **No Animation Response**: Check the MQTT connection and ensure the tablet is properly receiving data.
 - **Pepper's Ghost Illusion Not Clear**: Adjust the angle and distance of the screen and transparent surface for better projection.
+  ![image](https://github.com/user-attachments/assets/845a61ca-a711-4fe4-bd86-c66b15c894a2)
+
 - **Sensors Not Responding**: Verify sensor connections and calibration. Check the Arduino script for correct sensor handling.
 
 ## Acknowledgements
