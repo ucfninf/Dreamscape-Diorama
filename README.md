@@ -35,8 +35,6 @@ To replicate this project, follow the steps below to set up both the hardware an
 **Project Principle**
 ![Pepper's ghost](https://github.com/user-attachments/assets/0981c581-7fcc-465d-a519-4be92a3e0f1d)
 
-![579d8027449eb49a2be21d5f1fe6a63](https://github.com/user-attachments/assets/85ecb804-9546-4c57-822b-1c1f771edf33)
-
 
 
 ## Hardware Requirements
@@ -79,15 +77,14 @@ Grindelwald's hill Representation: ![Screenshot 2024-08-06 134959](https://githu
 3. **Scene Setup**: Open the Unity scene file and configure the environment with the appropriate assets. Assign the `mqttControllerSheep` and `mqttWindspeed` scripts to relevant GameObjects.
 4. **Animation and Interaction**: Adjust the animation settings to correspond with sensor data inputs. Ensure colliders and rigid bodies are correctly set up for interaction.
 5. **Code Editor** Such as Visual Studio Code or Android Studio
-   ![mqtt controller with animator](https://github.com/user-attachments/assets/56d446a7-7e9c-47e8-9304-d17ee1ef4b8c)
-
 
 ### 3. Running the Project
 
 1. **Build and Deploy**: Use Unity’s build settings to deploy the project to the Android tablet. Connect the tablet to the Pepper’s Ghost setup.
 2. **Start MQTT Server**: Run your MQTT broker and ensure it is configured to handle incoming data from the Arduino.
 3. **Test and Calibrate**: Once deployed, test the diorama by creating different noise levels and wind speeds. Adjust sensor sensitivity and animation parameters as necessary.
-   ![bugs occured having sheeps walk together](https://github.com/user-attachments/assets/56b1e452-de95-4f03-9eeb-537af99d2bb1)
+
+![bugs occured having sheeps walk together](https://github.com/user-attachments/assets/56b1e452-de95-4f03-9eeb-537af99d2bb1)
 
 
 ![noise mqtt reads](https://github.com/user-attachments/assets/ca4b0ca9-9f21-4a1f-99f5-4458fe869abb)
