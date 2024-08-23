@@ -2,7 +2,8 @@
 
 Welcome to the Dreamscape Diorama project! This project demonstrates how to create a real-time interactive diorama that uses environmental data to influence a virtual scene, combining Unity 3D and Pepper's Ghost illusion to create an immersive experience. This README provides step-by-step instructions on how to replicate this project.
 
-![8664eb9bcb3b2702cd1177790cec0b0](https://github.com/user-attachments/assets/1fa0955e-44af-472f-89af-57225675f7fa)
+![ee8beffe181d4947589bfbc6c4839c3](https://github.com/user-attachments/assets/e2feec03-0103-46b5-9976-178515e62833)
+
 
 ## Introduction
 The Dreamscape Diorama project seeks to bridge the gap between environmental awareness and public engagement through the innovative use of digital technology. By integrating real-time environmental data, such as noise levels and wind speed, with visual storytelling techniques, this project creates a miniature world that responds dynamically to its surroundings. Utilizing Unity 3D and the Pepper's Ghost illusion, the diorama offers an immersive experience where digital elements seamlessly interact with physical space. The primary goal of the project is to captivate and educate audiences about the impacts of environmental changes, making complex data more relatable and engaging through visual representation.
@@ -42,9 +43,7 @@ To replicate this project, follow the steps below to set up both the hardware an
 
 - **Tablet**: Samsung SE5 (Android-based) or any tablet that supports Unity 3D.
 - **Pepper’s Ghost Setup**: Transparent surface, projector screen, or tablet for projection.
-- **Sensors**: Microphone sensor for noise detection, wind speed sensor.
-  ![33561659ee7ce1e676cd9064a6d8963](https://github.com/user-attachments/assets/d26afa7b-361c-4ec2-a652-3b47404c4da8)
-
+- **Sensors**: Microphone sensor for noise detection, wind speed sensor
 - **Microcontroller**: Arduino with WiFi capability (e.g., Arduino UNO with ESP8266).
 - **Miscellaneous**: Connecting cables, power supplies, support frame for Pepper’s Ghost setup.
 
