@@ -4,11 +4,14 @@ Welcome to the Dreamscape Diorama project! This project demonstrates how to crea
 
 ![ee8beffe181d4947589bfbc6c4839c3](https://github.com/user-attachments/assets/e2feec03-0103-46b5-9976-178515e62833)
 
+## About 
+
+**Author** Yuhua (Annie) Jin
 
 ## Introduction
 The Dreamscape Diorama project seeks to bridge the gap between environmental awareness and public engagement through the innovative use of digital technology. By integrating real-time environmental data, such as noise levels and wind speed, with visual storytelling techniques, this project creates a miniature world that responds dynamically to its surroundings. Utilizing Unity 3D and the Pepper's Ghost illusion, the diorama offers an immersive experience where digital elements seamlessly interact with physical space. The primary goal of the project is to captivate and educate audiences about the impacts of environmental changes, making complex data more relatable and engaging through visual representation.
 
-***Project Inspiration**:
+**Project Inspiration**:
 ![29b10a9654d06cf5f70c308eb30aa5f](https://github.com/user-attachments/assets/14ad4461-1b00-4dd6-9814-dcba53728564)
 
 ### The inspiration for the Dreamscape Diorama comes from the serene and picturesque landscapes of Grindelwald, Switzerland. Known for its peaceful integration of natural beauty and human elements, Grindelwald provides a perfect backdrop for exploring the relationship between people and their environment. This project aims to evoke similar feelings of tranquility and reflection, encouraging viewers to consider their impact on the natural world. By combining elements of fantasy with cutting-edge technology, the diorama not only showcases the beauty of these landscapes but also highlights the importance of environmental awareness and stewardship.
